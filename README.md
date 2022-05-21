@@ -36,4 +36,21 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-"# my-sveltekit-pokedex" 
+
+
+
+
+
+
+# my-sveltekit-pokedex
+
+    echo "# my-sveltekit-pokedex" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/king-garlic/my-sveltekit-pokedex.git
+    git push -u origin main
+
+
+
